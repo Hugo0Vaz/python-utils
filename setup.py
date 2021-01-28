@@ -11,8 +11,8 @@
 import setuptools
 
 setuptools.setup(
-    name="ve-py.utils",
-    version="0.0.1",
+    name="vepyutils",
+    version="0.0.2",
     author="Hugo Martins Vaz Silva",
     author_email="hugomartinsvaz@gmail.com",
     description="Biblioteca de scripts utilitários",
