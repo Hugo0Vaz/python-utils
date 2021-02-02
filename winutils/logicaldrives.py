@@ -7,6 +7,7 @@
 #==============================================================================#
 
 import winreg
+import string
 
 def get_logical_drives():
     drives = []
