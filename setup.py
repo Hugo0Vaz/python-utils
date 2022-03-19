@@ -1,13 +1,3 @@
-#==============================================================================#
-#                                                                              #
-#                     Win Registry Installed Programs                          #
-#                                                                              #
-# Descrição: script de setup da biblioteca ve-py.utils                         #
-#                                                                              #
-# Autores: Hugo Martins Vaz Silva - hugo.martins@kot.com.br                    #
-#                                   hugomartinsvaz@gmail.com                   #
-#==============================================================================#
-
 import setuptools
 
 setuptools.setup(
